@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity
 
     public void PersonalizedModel(View v){
         try {
-            String[] etiquetas = {"centeno", "chimbo",  "arraes"};
+            String[] etiquetas = {"centeno", "chimbo", "avila", "arraes"};
             ModelUnquant model = ModelUnquant.newInstance(getApplicationContext());
             TensorBuffer inputFeature0 = TensorBuffer.createFixedSize(new int[]{1, 224, 224, 3}, DataType.FLOAT32);
             inputFeature0.loadBuffer(convertirImagenATensorBuffer(mSelectedImage));
