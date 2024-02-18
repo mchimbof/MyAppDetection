@@ -1,4 +1,5 @@
-# MyAppDetection
+# MyAppDetection  
+POSTDATA: Se utilizo el modelo de entrenamiento compartido por el compañero FERNANDO ARRAES en la ultima clase
 
 ![mchimbof](https://github.com/mchimbof/MyAppDetection/assets/26042473/8d52b3f8-34ad-4318-9691-34fe464dd167) ...
 ![mchimbo](https://github.com/mchimbof/MyAppDetection/assets/26042473/d1bf3a14-7a39-4430-b9d8-8a867556cca2) ...
